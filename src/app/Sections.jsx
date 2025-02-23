@@ -12,7 +12,7 @@ export function Section1(){
             backgroundImage:"url(/torn_paper_bg.png)"
         }}>
 
-            <video autoPlay muted loop preload="auto" playsInline poster="/Arts_Chic_Logo_Alt.png" className="h-full w-full">
+            <video autoPlay muted loop playsInline poster="/Arts_Chic_Logo_Alt.png" className="h-full w-full">
                 <source src="/Banner_video.mp4" type="video/mp4"/>
             </video>
         </div>
